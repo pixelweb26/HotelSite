@@ -1,0 +1,2 @@
+# HotelSite
+Responsive Hotel Template
